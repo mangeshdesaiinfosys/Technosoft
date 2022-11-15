@@ -20,6 +20,7 @@ public static void main(String[] args) { //main method
 
 	//to print doubly
 	//System.out.println(hm.clone());
+	 System.out.println("i'm pushed to Github from Eclipse");
 	
 	//to get size
 	//System.out.println(hm.size());
