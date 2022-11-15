@@ -1,0 +1,18 @@
+package Constructor;
+public class Gun { //MAIN METHOD STARTED
+ 
+	 String gunName;
+	 int noOfBullets;
+ public void shoot() {
+	 for(int i=1;i<=noOfBullets;i++)
+	   	 
+	 {
+		 System.out.println("DISKEW");
+		 System.out.println("AK47");
+	 }
+	
+	
+	
+	
+ }
+}
